@@ -1,0 +1,7 @@
+C:\Users\seank\source\repos\GCLab4\GCLab4\bin\Debug\GCLab4.exe.config
+C:\Users\seank\source\repos\GCLab4\GCLab4\bin\Debug\GCLab4.exe
+C:\Users\seank\source\repos\GCLab4\GCLab4\bin\Debug\GCLab4.pdb
+C:\Users\seank\source\repos\GCLab4\GCLab4\obj\Debug\GCLab4.csprojAssemblyReference.cache
+C:\Users\seank\source\repos\GCLab4\GCLab4\obj\Debug\GCLab4.csproj.CoreCompileInputs.cache
+C:\Users\seank\source\repos\GCLab4\GCLab4\obj\Debug\GCLab4.exe
+C:\Users\seank\source\repos\GCLab4\GCLab4\obj\Debug\GCLab4.pdb
